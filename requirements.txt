@@ -1,0 +1,12 @@
+# principales jupyter en vscode:
+jupyter
+ipykernel
+nbformat
+nbconvert
+
+# genai
+langchain
+langchain-ollama
+langchain-openai
+langchain-anthropic
+langchain-google-genai
